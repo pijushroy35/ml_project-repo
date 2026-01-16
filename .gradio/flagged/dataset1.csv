@@ -1,0 +1,2 @@
+Gender,Age,Address,Family Size,Parent Status,Mother's Edu,Father's Edu,Mother's Job,Father's Job,Relationship,Smoker,Tuition Fee,Time with Friends,SSC Result (GPA),output,timestamp
+M,18,Urban,GT3,Together,2,1,At_home,Health,Yes,Yes,7,2,4,Predicted HSC Result: 3.24,2026-01-17 02:11:44.133553
